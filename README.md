@@ -1,5 +1,8 @@
 # Cloud_Computing
-
+## Who is the Cloud part in here ? 
+  Let me introduce you to the team : 
+    1. Hafid Endar Nugroho 
+    2. Andru Fathan Ridzqullah
 ## Cloud Architecture design
 ![Untitled](https://user-images.githubusercontent.com/96034033/173257058-1f7c2e0a-c3b6-40e9-b720-ed3d2b351005.png)
 
